@@ -13,5 +13,5 @@ function lmn(a, b) {
 }
 
 function solution(n) {
-    return lmn(6, n) / 6;
+    return lmn(n, 6) / 6;
 }
